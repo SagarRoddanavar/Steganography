@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "encode.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "decode.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
